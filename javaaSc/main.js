@@ -3,9 +3,9 @@ var Age = document.getElementById('floatingAge');
 const msg = [
     {quote:"مرحباً"},
     {quote:"اهلاً بك"},
-    {quote:"منور"}
-    {quote:"ازيك يا"}
-    {quote:"تمام يا"}
+    {quote:"منور"},
+    {quote:"ازيك يا"},
+    {quote:"تمام يا"},
 ];
 var data = [];
 
