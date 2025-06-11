@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-control{
+    border-bottom: 2px solid crimson !important ;
+}
+.form-control:focus{
+    outline: 0;
+    box-shadow:none;
+}
